@@ -10,4 +10,14 @@
   
 ## Videos of the robot in action:
 
+### The robot is completely autonomously driven in the video below. It's tasks are:
+* to find a yellow block with black tape on it, pick it up and transport it to the other side
+* return and find the second yellow block with black tape on it, and transport it to the other side
+* move the red platform 
+* and park in the center of the field
+
+
+
+
+https://user-images.githubusercontent.com/54967572/178164614-51cdec71-483c-4e92-8cf3-a3c3b27340ab.mov
 
